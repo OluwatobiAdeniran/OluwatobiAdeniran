@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi. I'm Oluwatobi Chris Adeniran 👋
 
-<!--
-**OluwatobiAdeniran/OluwatobiAdeniran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Agentic Engineer** building AI systems that plan, act, and learn autonomously.
 
-Here are some ideas to get you started:
+I transitioned into AI engineering from Data Analytics and SEO strategy,
+combining domain expertise with technical skills to build practical AI solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Build
+
+- AI agents with tool calling, memory, and guardrails
+- LLM-powered applications with structured outputs and evaluation
+- MCP servers and multi-agent orchestration systems
+- Production APIs with FastAPI, SQLite, and Docker
+
+## 🛠️ Tech Stack
+
+`Python` · `Anthropic Claude API` · `MCP` · `FastAPI` · `SQLite` · `ChromaDB`
+· `Docker` · `LangGraph` · `Pydantic` · `pytest` · `Git/GitHub`
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Capstone Project](link)** |   | Claude API, MCP, FastAPI, Docker |
+| **[SEO Research Agent](link)** |  | Tool calling, guardrails, evals |
+| **[AI Chat API](link)** |  | FastAPI, SQLite, async |
+| **[MCP Multi-Agent System](link)** |  | MCP, multi-agent patterns |
+
+## 🌱 Currently Learning
+
+Advanced multi-agent patterns · Cloud deployment · Contributing to open source
+
+## 📫 Connect
+
+- **LinkedIn:** [your-linkedin-url]
+- **Upwork:** [your-upwork-url]
+- **Email:** chriis2opher@gmail.com
